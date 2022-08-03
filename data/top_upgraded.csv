@@ -1,0 +1,1361 @@
+character_chosen,item,count,win_percent
+WATCHER,Reboot,0.0,0.0
+THE_SILENT,Collect,0.0,
+DEFECT,Backflip,0.0,0.0
+DEFECT,BattleHymn,0.0,
+IRONCLAD,BattleHymn,0.0,0.0
+THE_SILENT,BattleHymn,0.0,0.0
+DEFECT,Sentinel,0.0,
+THE_SILENT,Sentinel,0.0,
+WATCHER,Sentinel,0.0,
+DEFECT,EmptyMind,0.0,
+IRONCLAD,EmptyMind,0.0,
+THE_SILENT,EmptyMind,0.0,
+DEFECT,Ragnarok,0.0,0.0
+THE_SILENT,Ragnarok,0.0,0.0
+IRONCLAD,Collect,0.0,0.0
+IRONCLAD,Static Discharge,0.0,0.0
+WATCHER,Static Discharge,0.0,
+IRONCLAD,Thunder Strike,0.0,
+THE_SILENT,Thunder Strike,0.0,
+WATCHER,Thunder Strike,0.0,
+IRONCLAD,Storm,0.0,
+THE_SILENT,Storm,0.0,
+WATCHER,Storm,0.0,
+DEFECT,Bloodletting,0.0,
+THE_SILENT,Bloodletting,0.0,
+WATCHER,Bloodletting,0.0,0.0
+DEFECT,Havoc,0.0,
+THE_SILENT,Havoc,0.0,0.0
+IRONCLAD,Force Field,0.0,
+THE_SILENT,Static Discharge,0.0,0.0
+THE_SILENT,Force Field,0.0,
+DEFECT,Collect,0.0,0.0
+THE_SILENT,Immolate,0.0,0.0
+DEFECT,EmptyBody,0.0,
+IRONCLAD,EmptyBody,0.0,
+THE_SILENT,EmptyBody,0.0,
+DEFECT,LikeWater,0.0,
+IRONCLAD,LikeWater,0.0,
+THE_SILENT,LikeWater,0.0,
+DEFECT,Strike_R,0.0,
+THE_SILENT,Strike_R,0.0,
+WATCHER,Strike_R,0.0,
+DEFECT,Fire Breathing,0.0,
+THE_SILENT,Fire Breathing,0.0,
+WATCHER,Fire Breathing,0.0,
+DEFECT,CutThroughFate,0.0,0.0
+WATCHER,Immolate,0.0,0.0
+IRONCLAD,CutThroughFate,0.0,
+DEFECT,Seeing Red,0.0,
+THE_SILENT,Seeing Red,0.0,0.0
+WATCHER,Seeing Red,0.0,
+DEFECT,Wild Strike,0.0,
+THE_SILENT,Wild Strike,0.0,
+WATCHER,Wild Strike,0.0,
+DEFECT,Reflex,0.0,
+IRONCLAD,Reflex,0.0,
+WATCHER,Reflex,0.0,
+DEFECT,Prepared,0.0,
+IRONCLAD,Prepared,0.0,
+WATCHER,Prepared,0.0,0.0
+DEFECT,Immolate,0.0,
+THE_SILENT,CutThroughFate,0.0,0.0
+WATCHER,Force Field,0.0,
+DEFECT,BowlingBash,0.0,
+IRONCLAD,BowlingBash,0.0,
+IRONCLAD,Leap,0.0,0.0
+THE_SILENT,Leap,0.0,0.0
+WATCHER,Leap,0.0,
+DEFECT,Cleave,0.0,0.0
+THE_SILENT,Cleave,0.0,
+WATCHER,Cleave,0.0,
+DEFECT,Rampage,0.0,
+THE_SILENT,Rampage,0.0,0.0
+WATCHER,Rampage,0.0,0.0
+IRONCLAD,Lockon,0.0,
+THE_SILENT,Lockon,0.0,
+WATCHER,Lockon,0.0,
+DEFECT,InnerPeace,0.0,
+WATCHER,Self Repair,0.0,
+IRONCLAD,InnerPeace,0.0,
+IRONCLAD,Melter,0.0,
+THE_SILENT,Melter,0.0,
+WATCHER,Melter,0.0,
+DEFECT,Concentrate,0.0,
+IRONCLAD,Concentrate,0.0,
+WATCHER,Concentrate,0.0,0.0
+DEFECT,Storm of Steel,0.0,
+WATCHER,Storm of Steel,0.0,
+DEFECT,Conclude,0.0,
+THE_SILENT,Conclude,0.0,0.0
+DEFECT,Judgement,0.0,0.0
+IRONCLAD,Judgement,0.0,
+THE_SILENT,Judgement,0.0,0.0
+THE_SILENT,InnerPeace,0.0,
+THE_SILENT,Self Repair,0.0,0.0
+IRONCLAD,Self Repair,0.0,0.0
+THE_SILENT,Brilliance,0.0,
+THE_SILENT,BowlingBash,0.0,
+DEFECT,Pray,0.0,0.0
+THE_SILENT,Pray,0.0,
+DEFECT,Quick Slash,0.0,
+IRONCLAD,Quick Slash,0.0,
+WATCHER,Quick Slash,0.0,
+DEFECT,Strike_G,0.0,
+IRONCLAD,Strike_G,0.0,
+WATCHER,Strike_G,0.0,
+DEFECT,Finisher,0.0,
+IRONCLAD,Finisher,0.0,0.0
+WATCHER,Finisher,0.0,
+DEFECT,Accuracy,0.0,
+IRONCLAD,Accuracy,0.0,
+WATCHER,Accuracy,0.0,
+DEFECT,Choke,0.0,
+IRONCLAD,Choke,0.0,
+WATCHER,Choke,0.0,
+DEFECT,Dodge and Roll,0.0,
+IRONCLAD,Dodge and Roll,0.0,0.0
+WATCHER,Dodge and Roll,0.0,
+DEFECT,Defend_G,0.0,
+IRONCLAD,Defend_G,0.0,
+WATCHER,Defend_G,0.0,
+DEFECT,Anger,0.0,0.0
+THE_SILENT,Anger,0.0,
+WATCHER,Anger,0.0,
+DEFECT,Brilliance,0.0,
+IRONCLAD,Brilliance,0.0,
+THE_SILENT,Indignation,0.0,
+DEFECT,Wireheading,0.0,0.0
+IRONCLAD,Indignation,0.0,
+THE_SILENT,Devotion,0.0,
+DEFECT,Escape Plan,0.0,
+IRONCLAD,Escape Plan,0.0,
+WATCHER,Escape Plan,0.0,
+DEFECT,Grand Finale,0.0,
+IRONCLAD,Grand Finale,0.0,
+WATCHER,Grand Finale,0.0,
+DEFECT,Searing Blow,0.0,
+THE_SILENT,Searing Blow,0.0,0.0
+WATCHER,Searing Blow,0.0,
+DEFECT,Searing Blow+X,0.0,
+THE_SILENT,Searing Blow+X,0.0,0.0
+WATCHER,Searing Blow+X,0.0,
+DEFECT,Sword Boomerang,0.0,
+WATCHER,Setup,0.0,
+THE_SILENT,Sword Boomerang,0.0,
+DEFECT,Flex,0.0,
+THE_SILENT,Flex,0.0,0.0
+DEFECT,Halt,0.0,
+IRONCLAD,Halt,0.0,
+THE_SILENT,Halt,0.0,
+DEFECT,ClearTheMind,0.0,
+IRONCLAD,ClearTheMind,0.0,
+THE_SILENT,ClearTheMind,0.0,
+DEFECT,Malaise,0.0,0.0
+WATCHER,Malaise,0.0,
+DEFECT,Infinite Blades,0.0,
+IRONCLAD,Infinite Blades,0.0,0.0
+WATCHER,Infinite Blades,0.0,
+WATCHER,Sword Boomerang,0.0,
+DEFECT,Fiend Fire,0.0,
+IRONCLAD,Setup,0.0,
+WATCHER,Adrenaline,0.0,
+THE_SILENT,ForeignInfluence,0.0,0.0
+DEFECT,FearNoEvil,0.0,
+IRONCLAD,FearNoEvil,0.0,
+THE_SILENT,FearNoEvil,0.0,
+IRONCLAD,Sunder,0.0,
+THE_SILENT,Sunder,0.0,
+IRONCLAD,Tempest,0.0,0.0
+THE_SILENT,Tempest,0.0,
+WATCHER,Tempest,0.0,
+IRONCLAD,Streamline,0.0,0.0
+WATCHER,Turbo,0.0,
+WATCHER,Heatsinks,0.0,0.0
+THE_SILENT,Hologram,0.0,
+DEFECT,Setup,0.0,
+IRONCLAD,Go for the Eyes,0.0,
+WATCHER,Go for the Eyes,0.0,
+IRONCLAD,Amplify,0.0,
+WATCHER,Amplify,0.0,
+DEFECT,Corpse Explosion,0.0,
+IRONCLAD,Corpse Explosion,0.0,
+WATCHER,Corpse Explosion,0.0,
+DEFECT,Flechettes,0.0,0.0
+IRONCLAD,Flechettes,0.0,
+WATCHER,Flechettes,0.0,
+DEFECT,Calculated Gamble,0.0,0.0
+IRONCLAD,Calculated Gamble,0.0,0.0
+WATCHER,Calculated Gamble,0.0,0.0
+DEFECT,Adrenaline,0.0,0.0
+THE_SILENT,Go for the Eyes,0.0,
+THE_SILENT,Fiend Fire,0.0,
+WATCHER,Fiend Fire,0.0,
+DEFECT,Scrawl,0.0,0.0
+DEFECT,Vengeance,0.0,
+IRONCLAD,Vengeance,0.0,
+THE_SILENT,Vengeance,0.0,
+DEFECT,MentalFortress,0.0,
+IRONCLAD,MentalFortress,0.0,
+THE_SILENT,MentalFortress,0.0,
+IRONCLAD,Chaos,0.0,
+THE_SILENT,Chaos,0.0,
+WATCHER,Chaos,0.0,
+DEFECT,FlurryOfBlows,0.0,
+IRONCLAD,FlurryOfBlows,0.0,
+THE_SILENT,FlurryOfBlows,0.0,
+DEFECT,Corruption,0.0,0.0
+WATCHER,Chill,0.0,
+THE_SILENT,Corruption,0.0,0.0
+IRONCLAD,WindmillStrike,0.0,
+THE_SILENT,WindmillStrike,0.0,0.0
+DEFECT,After Image,0.0,
+IRONCLAD,After Image,0.0,
+WATCHER,After Image,0.0,
+DEFECT,Dagger Spray,0.0,
+IRONCLAD,Dagger Spray,0.0,
+WATCHER,Dagger Spray,0.0,0.0
+DEFECT,WheelKick,0.0,0.0
+THE_SILENT,WheelKick,0.0,0.0
+DEFECT,Venomology,0.0,
+DEFECT,Devotion,0.0,0.0
+IRONCLAD,Devotion,0.0,0.0
+DEFECT,WindmillStrike,0.0,
+THE_SILENT,Chill,0.0,
+IRONCLAD,Chill,0.0,
+THE_SILENT,Stack,0.0,
+IRONCLAD,Scrawl,0.0,0.0
+THE_SILENT,Scrawl,0.0,
+IRONCLAD,Buffer,0.0,0.0
+THE_SILENT,Buffer,0.0,0.0
+IRONCLAD,Core Surge,0.0,0.0
+THE_SILENT,Core Surge,0.0,
+WATCHER,Core Surge,0.0,
+IRONCLAD,Conserve Battery,0.0,
+THE_SILENT,Conserve Battery,0.0,0.0
+WATCHER,Conserve Battery,0.0,
+IRONCLAD,Cold Snap,0.0,
+THE_SILENT,Cold Snap,0.0,
+WATCHER,Cold Snap,0.0,
+IRONCLAD,Multi-Cast,0.0,
+THE_SILENT,Multi-Cast,0.0,
+WATCHER,Multi-Cast,0.0,
+WATCHER,Bandage Up,0.0,0.0
+DEFECT,Power Through,0.0,
+THE_SILENT,Power Through,0.0,
+WATCHER,Power Through,0.0,
+DEFECT,Exhume,0.0,
+THE_SILENT,Exhume,0.0,
+WATCHER,Exhume,0.0,
+DEFECT,Second Wind,0.0,
+THE_SILENT,Second Wind,0.0,
+WATCHER,Second Wind,0.0,
+DEFECT,Skewer,0.0,
+IRONCLAD,Skewer,0.0,
+IRONCLAD,Reboot,0.0,
+DEFECT,Indignation,0.0,
+IRONCLAD,Wireheading,0.0,
+DEFECT,Expertise,0.0,0.0
+IRONCLAD,Expertise,0.0,
+DEFECT,Flash of Steel,0.0,0.0
+IRONCLAD,FTL,0.0,
+THE_SILENT,FTL,0.0,0.0
+WATCHER,FTL,0.0,100.0
+IRONCLAD,Fusion,0.0,0.0
+THE_SILENT,Fusion,0.0,
+WATCHER,Fusion,0.0,
+DEFECT,Dropkick,0.0,
+THE_SILENT,Dropkick,0.0,
+WATCHER,Dropkick,0.0,
+DEFECT,Reckless Charge,0.0,
+THE_SILENT,Reckless Charge,0.0,
+WATCHER,Reckless Charge,0.0,
+WATCHER,Gash,0.0,
+IRONCLAD,Defend_B,0.0,
+WATCHER,Defend_B,0.0,
+DEFECT,Slice,0.0,
+IRONCLAD,Slice,0.0,
+WATCHER,Slice,0.0,
+DEFECT,Endless Agony,0.0,
+IRONCLAD,Endless Agony,0.0,
+WATCHER,Endless Agony,0.0,
+DEFECT,DeceiveReality,0.0,
+IRONCLAD,DeceiveReality,0.0,
+THE_SILENT,DeceiveReality,0.0,100.0
+DEFECT,Unload,0.0,
+IRONCLAD,Unload,0.0,
+WATCHER,Unload,0.0,
+THE_SILENT,Defend_B,0.0,
+DEFECT,Thinking Ahead,0.0,17.65
+THE_SILENT,Gash,0.0,
+WATCHER,Headbutt,0.0,
+THE_SILENT,FlyingSleeves,0.0,
+IRONCLAD,Rebound,0.0,
+THE_SILENT,Rebound,0.0,0.0
+WATCHER,Rebound,0.0,
+DEFECT,Intimidate,0.0,
+THE_SILENT,Intimidate,0.0,
+WATCHER,Intimidate,0.0,
+DEFECT,J.A.X.,0.0,0.0
+IRONCLAD,Scrape,0.0,
+THE_SILENT,Scrape,0.0,
+WATCHER,Scrape,0.0,
+DEFECT,Secret Weapon,0.0,28.57
+IRONCLAD,Secret Weapon,0.0,0.0
+IRONCLAD,Gash,0.0,
+THE_SILENT,Secret Weapon,0.0,0.0
+IRONCLAD,Sucker Punch,0.0,
+WATCHER,Sucker Punch,0.0,
+IRONCLAD,All For One,0.0,
+THE_SILENT,All For One,0.0,
+WATCHER,All For One,0.0,
+THE_SILENT,Violence,0.0,0.0
+DEFECT,PathToVictory,0.0,0.0
+IRONCLAD,PathToVictory,0.0,
+IRONCLAD,Rip and Tear,0.0,0.0
+THE_SILENT,Rip and Tear,0.0,
+WATCHER,Rip and Tear,0.0,
+DEFECT,Headbutt,0.0,
+THE_SILENT,Headbutt,0.0,
+DEFECT,Sucker Punch,0.0,0.0
+DEFECT,Heel Hook,0.0,
+IRONCLAD,Heel Hook,0.0,
+WATCHER,Heel Hook,0.0,
+THE_SILENT,Weave,0.0,
+WATCHER,Blind,0.0,0.0
+DEFECT,Clash,0.0,
+THE_SILENT,Clash,0.0,0.0
+WATCHER,Clash,0.0,
+THE_SILENT,Aggregate,0.0,
+WATCHER,Aggregate,0.0,
+IRONCLAD,Auto Shields,0.0,
+THE_SILENT,Auto Shields,0.0,
+WATCHER,Auto Shields,0.0,0.0
+IRONCLAD,Strike_B,0.0,
+THE_SILENT,Strike_B,0.0,
+WATCHER,Strike_B,0.0,
+IRONCLAD,Weave,0.0,
+DEFECT,Flying Knee,0.0,
+WATCHER,Flying Knee,0.0,
+IRONCLAD,Hello World,0.0,
+THE_SILENT,Hello World,0.0,
+WATCHER,Hello World,0.0,0.0
+IRONCLAD,Dramatic Entrance,0.0,5.41
+WATCHER,Dramatic Entrance,0.0,0.0
+DEFECT,Swift Strike,0.0,0.0
+THE_SILENT,Swift Strike,0.0,0.0
+WATCHER,Swift Strike,0.0,0.0
+IRONCLAD,Reprogram,0.0,
+THE_SILENT,Reprogram,0.0,0.0
+WATCHER,Reprogram,0.0,
+IRONCLAD,Stack,0.0,
+IRONCLAD,Flying Knee,0.0,0.0
+DEFECT,Weave,0.0,
+THE_SILENT,JustLucky,0.0,
+IRONCLAD,JustLucky,0.0,0.0
+DEFECT,Good Instincts,0.0,12.5
+THE_SILENT,Good Instincts,0.0,0.0
+WATCHER,Good Instincts,0.0,
+THE_SILENT,Jack Of All Trades,0.0,0.0
+WATCHER,Jack Of All Trades,0.0,8.33
+DEFECT,Crescendo,0.0,
+IRONCLAD,Crescendo,0.0,40.0
+THE_SILENT,Crescendo,0.0,
+DEFECT,Bite,0.0,3.57
+WATCHER,Bite,0.0,0.0
+IRONCLAD,BootSequence,0.0,
+THE_SILENT,BootSequence,0.0,0.0
+WATCHER,BootSequence,0.0,
+DEFECT,WreathOfFlame,0.0,
+IRONCLAD,WreathOfFlame,0.0,
+THE_SILENT,WreathOfFlame,0.0,
+DEFECT,Swivel,0.0,
+IRONCLAD,Swivel,0.0,
+THE_SILENT,Swivel,0.0,
+DEFECT,Evaluate,0.0,
+IRONCLAD,Evaluate,0.0,0.0
+THE_SILENT,Evaluate,0.0,50.0
+DEFECT,Distraction,0.0,
+IRONCLAD,Distraction,0.0,
+WATCHER,Distraction,0.0,
+IRONCLAD,Steam,0.0,
+THE_SILENT,Steam,0.0,
+WATCHER,Steam,0.0,
+DEFECT,JustLucky,0.0,
+IRONCLAD,FlyingSleeves,0.0,
+DEFECT,FlyingSleeves,0.0,
+WATCHER,Masterful Stab,0.0,
+IRONCLAD,Masterful Stab,0.0,
+WATCHER,Compile Driver,0.0,
+DEFECT,Prostrate,0.0,0.0
+THE_SILENT,Prostrate,0.0,0.0
+DEFECT,MasterReality,0.0,0.0
+IRONCLAD,MasterReality,0.0,
+DEFECT,Study,0.0,0.0
+THE_SILENT,Study,0.0,
+DEFECT,Perseverance,0.0,0.0
+IRONCLAD,Perseverance,0.0,0.0
+THE_SILENT,Perseverance,0.0,
+IRONCLAD,Ball Lightning,0.0,
+THE_SILENT,Ball Lightning,0.0,0.0
+WATCHER,Ball Lightning,0.0,
+THE_SILENT,Compile Driver,0.0,
+DEFECT,Backstab,0.0,
+WATCHER,Backstab,0.0,
+DEFECT,Alpha,0.0,
+IRONCLAD,Alpha,0.0,
+THE_SILENT,Alpha,0.0,
+DEFECT,Die Die Die,0.0,
+IRONCLAD,Die Die Die,0.0,0.0
+WATCHER,Die Die Die,0.0,0.0
+IRONCLAD,Redo,0.0,
+THE_SILENT,Redo,0.0,
+WATCHER,Redo,0.0,
+DEFECT,Bane,0.0,
+IRONCLAD,Bane,0.0,0.0
+WATCHER,Bane,0.0,
+IRONCLAD,Backstab,0.0,0.0
+IRONCLAD,Compile Driver,0.0,
+THE_SILENT,Strike_P,0.0,
+IRONCLAD,Strike_P,0.0,
+WATCHER,Expertise,0.0,
+DEFECT,ThirdEye,0.0,
+IRONCLAD,ThirdEye,0.0,0.0
+THE_SILENT,ThirdEye,0.0,0.0
+DEFECT,Worship,0.0,
+IRONCLAD,Worship,0.0,0.0
+THE_SILENT,Worship,0.0,
+DEFECT,Nirvana,0.0,
+IRONCLAD,Nirvana,0.0,
+THE_SILENT,Nirvana,0.0,
+DEFECT,Perfected Strike,0.0,
+THE_SILENT,Perfected Strike,0.0,0.0
+WATCHER,Perfected Strike,0.0,
+DEFECT,Iron Wave,0.0,0.0
+THE_SILENT,Iron Wave,0.0,
+WATCHER,Iron Wave,0.0,
+DEFECT,Tools of the Trade,0.0,
+IRONCLAD,Tools of the Trade,0.0,
+WATCHER,Tools of the Trade,0.0,0.0
+DEFECT,Reaper,0.0,0.0
+THE_SILENT,Reaper,0.0,
+WATCHER,Reaper,0.0,
+DEFECT,Riddle With Holes,0.0,
+IRONCLAD,Riddle With Holes,0.0,
+WATCHER,Riddle With Holes,0.0,0.0
+DEFECT,Defend_P,0.0,
+IRONCLAD,Defend_P,0.0,
+THE_SILENT,Defend_P,0.0,
+DEFECT,Strike_P,0.0,
+DEFECT,PiercingWail,0.0,
+IRONCLAD,ForeignInfluence,0.0,0.0
+IRONCLAD,PiercingWail,0.0,
+DEFECT,SignatureMove,0.0,
+DEFECT,ReachHeaven,0.0,
+IRONCLAD,ReachHeaven,0.0,
+THE_SILENT,ReachHeaven,0.0,0.0
+DEFECT,Thunderclap,0.0,0.0
+THE_SILENT,Thunderclap,0.0,
+WATCHER,Thunderclap,0.0,
+DEFECT,Sanctity,0.0,
+IRONCLAD,Sanctity,0.0,
+THE_SILENT,Sanctity,0.0,0.0
+DEFECT,Pummel,0.0,
+THE_SILENT,Pummel,0.0,
+WATCHER,Pummel,0.0,
+IRONCLAD,Steam Power,0.0,
+WATCHER,Blizzard,0.0,
+THE_SILENT,Steam Power,0.0,
+DEFECT,Underhanded Strike,0.0,
+IRONCLAD,Underhanded Strike,0.0,
+WATCHER,Underhanded Strike,0.0,
+DEFECT,Infernal Blade,0.0,
+THE_SILENT,Infernal Blade,0.0,
+WATCHER,Infernal Blade,0.0,
+DEFECT,Hemokinesis,0.0,
+THE_SILENT,Hemokinesis,0.0,
+WATCHER,Hemokinesis,0.0,
+DEFECT,Sadistic Nature,0.0,0.0
+IRONCLAD,Sadistic Nature,0.0,0.0
+WATCHER,Sadistic Nature,0.0,0.0
+DEFECT,Masterful Stab,0.0,
+WATCHER,Steam Power,0.0,
+THE_SILENT,Blizzard,0.0,
+IRONCLAD,Blizzard,0.0,
+WATCHER,Warcry,0.0,
+IRONCLAD,SignatureMove,0.0,0.0
+THE_SILENT,SignatureMove,0.0,0.0
+DEFECT,ConjureBlade,0.0,
+THE_SILENT,ConjureBlade,0.0,
+DEFECT,Blade Dance,0.0,
+IRONCLAD,Blade Dance,0.0,0.0
+WATCHER,Blade Dance,0.0,
+DEFECT,FollowUp,0.0,0.0
+IRONCLAD,FollowUp,0.0,0.0
+THE_SILENT,FollowUp,0.0,0.0
+DEFECT,Outmaneuver,0.0,
+IRONCLAD,Outmaneuver,0.0,
+WATCHER,Outmaneuver,0.0,
+DEFECT,Bullet Time,0.0,0.0
+IRONCLAD,Bullet Time,0.0,0.0
+WATCHER,Bullet Time,0.0,
+IRONCLAD,Hyperbeam,0.0,0.0
+WATCHER,Hyperbeam,0.0,0.0
+IRONCLAD,Machine Learning,0.0,0.0
+THE_SILENT,Machine Learning,0.0,
+WATCHER,Machine Learning,0.0,0.0
+IRONCLAD,Beam Cell,0.0,0.0
+THE_SILENT,Beam Cell,0.0,0.0
+WATCHER,Beam Cell,0.0,
+DEFECT,Deflect,0.0,
+IRONCLAD,Deflect,0.0,
+WATCHER,Deflect,0.0,
+DEFECT,Warcry,0.0,
+THE_SILENT,Warcry,0.0,
+WATCHER,PiercingWail,0.0,
+DEFECT,ForeignInfluence,0.0,0.0
+WATCHER,Stack,0.0,
+THE_SILENT,Adaptation,0.0,0.0
+IRONCLAD,Protect,0.0,
+WATCHER,Dual Wield,0.0,
+THE_SILENT,Protect,0.0,0.0
+THE_SILENT,Dual Wield,0.0,0.0
+DEFECT,Dual Wield,0.0,
+WATCHER,Rage,0.0,
+THE_SILENT,Rage,0.0,0.0
+DEFECT,Rage,0.0,
+DEFECT,Vault,0.0,
+WATCHER,Disarm,0.0,0.0
+THE_SILENT,Disarm,0.0,0.0
+DEFECT,Disarm,0.0,0.0
+THE_SILENT,Vault,0.0,0.0
+DEFECT,SashWhip,0.0,
+IRONCLAD,SashWhip,0.0,0.0
+THE_SILENT,SashWhip,0.0,0.0
+THE_SILENT,White Noise,0.0,0.0
+DEFECT,Protect,0.0,0.0
+WATCHER,Battle Trance,0.0,
+THE_SILENT,Battle Trance,0.0,
+DEFECT,Battle Trance,0.0,0.0
+THE_SILENT,Limit Break,0.0,
+IRONCLAD,Bouncing Flask,0.0,0.0
+DEFECT,Bouncing Flask,0.0,0.0
+DEFECT,Shrug It Off,0.0,0.0
+WATCHER,Dagger Throw,0.0,
+THE_SILENT,Shrug It Off,0.0,0.0
+IRONCLAD,Dagger Throw,0.0,
+DEFECT,Dagger Throw,0.0,
+IRONCLAD,White Noise,0.0,0.0
+WATCHER,Shrug It Off,0.0,
+DEFECT,Berserk,0.0,0.0
+DEFECT,Feel No Pain,0.0,
+THE_SILENT,Berserk,0.0,0.0
+WATCHER,Berserk,0.0,
+DEFECT,Defend_R,0.0,
+DEFECT,Burning Pact,0.0,0.0
+THE_SILENT,Defend_R,0.0,
+WATCHER,Defend_R,0.0,
+THE_SILENT,Feel No Pain,0.0,
+DEFECT,EmptyFist,0.0,
+IRONCLAD,EmptyFist,0.0,
+THE_SILENT,EmptyFist,0.0,
+WATCHER,Bludgeon,0.0,
+DEFECT,Clothesline,0.0,
+DEFECT,Double Tap,0.0,
+THE_SILENT,Offering,0.0,50.0
+THE_SILENT,Clothesline,0.0,
+WATCHER,Clothesline,0.0,0.0
+DEFECT,Offering,0.0,
+DEFECT,Feed,0.0,
+THE_SILENT,Double Tap,0.0,
+WATCHER,Bash,0.0,
+THE_SILENT,Bash,0.0,
+WATCHER,Feed,0.0,
+DEFECT,Heavy Blade,0.0,
+DEFECT,Bash,0.0,
+WATCHER,Sever Soul,0.0,
+THE_SILENT,Heavy Blade,0.0,
+THE_SILENT,Sever Soul,0.0,
+DEFECT,Ghostly Armor,0.0,
+IRONCLAD,Vigilance,0.0,
+DEFECT,Limit Break,0.0,
+THE_SILENT,Bludgeon,0.0,0.0
+DEFECT,Bludgeon,0.0,
+WATCHER,Skim,0.0,
+WATCHER,Recycle,0.0,0.0
+WATCHER,Evolve,0.0,
+THE_SILENT,Evolve,0.0,0.0
+DEFECT,Evolve,0.0,
+THE_SILENT,Demon Form,0.0,0.0
+DEFECT,SpiritShield,0.0,
+IRONCLAD,SpiritShield,0.0,0.0
+DEFECT,Pommel Strike,0.0,0.0
+THE_SILENT,Whirlwind,0.0,0.0
+WATCHER,Uppercut,0.0,
+DEFECT,Meditate,0.0,0.0
+IRONCLAD,Meditate,0.0,
+THE_SILENT,Meditate,0.0,
+THE_SILENT,Uppercut,0.0,0.0
+DEFECT,Uppercut,0.0,
+WATCHER,Pommel Strike,0.0,50.0
+THE_SILENT,Pommel Strike,0.0,
+DEFECT,Whirlwind,0.0,0.0
+WATCHER,Blur,0.0,
+WATCHER,Bouncing Flask,0.0,0.0
+DEFECT,Noxious Fumes,0.0,0.0
+DEFECT,Caltrops,0.0,
+WATCHER,All Out Attack,0.0,
+IRONCLAD,All Out Attack,0.0,
+WATCHER,Eviscerate,0.0,
+DEFECT,All Out Attack,0.0,0.0
+DEFECT,Doppelganger,0.0,
+IRONCLAD,Doppelganger,0.0,
+WATCHER,Crippling Poison,0.0,
+IRONCLAD,Caltrops,0.0,0.0
+WATCHER,Doppelganger,0.0,
+IRONCLAD,Survivor,0.0,
+IRONCLAD,Crippling Poison,0.0,0.0
+DEFECT,Crippling Poison,0.0,0.0
+WATCHER,Survivor,0.0,
+DEFECT,Dark Embrace,0.0,0.0
+WATCHER,Poisoned Stab,0.0,
+IRONCLAD,Poisoned Stab,0.0,
+THE_SILENT,Dark Embrace,0.0,
+DEFECT,Survivor,0.0,
+WATCHER,Dark Embrace,0.0,0.0
+IRONCLAD,Eviscerate,0.0,0.0
+DEFECT,Eviscerate,0.0,
+THE_SILENT,Vigilance,0.0,
+THE_SILENT,LessonLearned,0.0,
+IRONCLAD,LessonLearned,0.0,0.0
+DEFECT,LessonLearned,0.0,
+DEFECT,Tantrum,0.0,
+WATCHER,Rainbow,0.0,
+THE_SILENT,Rainbow,0.0,
+IRONCLAD,Rainbow,0.0,
+WATCHER,Caltrops,0.0,0.0
+THE_SILENT,Eruption,0.0,
+THE_SILENT,Tantrum,0.0,
+DEFECT,Eruption,0.0,
+WATCHER,Neutralize,0.0,
+DEFECT,Predator,0.0,0.0
+IRONCLAD,Predator,0.0,0.0
+IRONCLAD,Neutralize,0.0,
+DEFECT,Neutralize,0.0,
+WATCHER,Predator,0.0,0.0
+IRONCLAD,Eruption,0.0,
+DEFECT,Sever Soul,0.0,
+DEFECT,Poisoned Stab,0.0,
+IRONCLAD,Night Terror,0.0,0.0
+DEFECT,Catalyst,0.0,
+WATCHER,Cloak And Dagger,0.0,0.0
+DEFECT,Glass Knife,0.0,
+IRONCLAD,Glass Knife,0.0,0.0
+WATCHER,Phantasmal Killer,0.0,
+IRONCLAD,Phantasmal Killer,0.0,0.0
+WATCHER,Glass Knife,0.0,
+DEFECT,Envenom,0.0,0.0
+IRONCLAD,Catalyst,0.0,
+DEFECT,Phantasmal Killer,0.0,
+WATCHER,Dash,0.0,
+WATCHER,Envenom,0.0,
+IRONCLAD,Dash,0.0,0.0
+DEFECT,Dash,0.0,0.0
+WATCHER,Noxious Fumes,0.0,
+IRONCLAD,Noxious Fumes,0.0,0.0
+DEFECT,Blur,0.0,
+IRONCLAD,Blur,0.0,0.0
+IRONCLAD,Envenom,0.0,
+DEFECT,Night Terror,0.0,
+WATCHER,Catalyst,0.0,
+WATCHER,Shockwave,0.0,0.0
+WATCHER,Creative AI,0.0,0.0
+THE_SILENT,Creative AI,0.0,
+WATCHER,Night Terror,0.0,
+WATCHER,Fission,0.0,
+DEFECT,Burst,0.0,
+THE_SILENT,Fission,0.0,
+IRONCLAD,Fission,0.0,
+WATCHER,Burst,0.0,
+DEFECT,Cloak And Dagger,0.0,
+DEFECT,Shockwave,0.0,0.0
+THE_SILENT,Glacier,0.0,
+IRONCLAD,Glacier,0.0,
+WATCHER,Electrodynamics,0.0,
+THE_SILENT,Electrodynamics,0.0,
+IRONCLAD,Electrodynamics,0.0,
+WATCHER,Barrage,0.0,
+THE_SILENT,Barrage,0.0,
+IRONCLAD,Barrage,0.0,
+WATCHER,Glacier,0.0,
+THE_SILENT,Ghostly Armor,0.0,
+THE_SILENT,Feed,0.0,
+THE_SILENT,Brutality,0.0,
+IRONCLAD,Reinforced Body,0.0,0.0
+WATCHER,Echo Form,0.0,0.0
+THE_SILENT,Combust,0.0,
+WATCHER,Combust,0.0,
+THE_SILENT,Echo Form,0.0,0.0
+DEFECT,Spot Weakness,0.0,
+IRONCLAD,Echo Form,0.0,0.0
+THE_SILENT,Spot Weakness,0.0,0.0
+DEFECT,Combust,0.0,
+WATCHER,Genetic Algorithm,0.0,
+THE_SILENT,Genetic Algorithm,0.0,0.0
+IRONCLAD,Genetic Algorithm,0.0,
+IRONCLAD,Consume,0.0,
+THE_SILENT,Consume,0.0,
+WATCHER,Consume,0.0,
+WATCHER,Seek,0.0,0.0
+DEFECT,Wallop,0.0,0.0
+IRONCLAD,Wallop,0.0,
+WATCHER,Spot Weakness,0.0,0.0
+THE_SILENT,Wallop,0.0,
+WATCHER,Metallicize,0.0,0.0
+THE_SILENT,Reinforced Body,0.0,
+DEFECT,Deadly Poison,0.0,
+WATCHER,Leg Sweep,0.0,0.0
+IRONCLAD,Leg Sweep,0.0,50.0
+DEFECT,Leg Sweep,0.0,
+WATCHER,Entrench,0.0,
+DEFECT,Brutality,0.0,
+WATCHER,Footwork,0.0,
+IRONCLAD,Footwork,0.0,0.0
+THE_SILENT,Metallicize,0.0,
+THE_SILENT,Twin Strike,0.0,
+WATCHER,A Thousand Cuts,0.0,
+DEFECT,Rupture,0.0,
+IRONCLAD,A Thousand Cuts,0.0,0.0
+DEFECT,A Thousand Cuts,0.0,
+THE_SILENT,Rupture,0.0,
+WATCHER,Rupture,0.0,
+DEFECT,Metallicize,0.0,0.0
+WATCHER,Reinforced Body,0.0,
+DEFECT,Footwork,0.0,0.0
+DEFECT,Entrench,0.0,0.0
+WATCHER,Darkness,0.0,
+IRONCLAD,CrushJoints,0.0,
+THE_SILENT,SandsOfTime,0.0,0.0
+WATCHER,Loop,0.0,
+THE_SILENT,Loop,0.0,
+IRONCLAD,Loop,0.0,
+WATCHER,Biased Cognition,0.0,
+THE_SILENT,Biased Cognition,0.0,
+IRONCLAD,Biased Cognition,0.0,
+DEFECT,DeusExMachina,0.0,
+IRONCLAD,SandsOfTime,0.0,0.0
+THE_SILENT,DeusExMachina,0.0,0.0
+IRONCLAD,Meteor Strike,0.0,
+DEFECT,DevaForm,0.0,
+IRONCLAD,DevaForm,0.0,
+THE_SILENT,Doom and Gloom,0.0,
+THE_SILENT,DevaForm,0.0,
+DEFECT,Adaptation,0.0,
+IRONCLAD,Doom and Gloom,0.0,
+IRONCLAD,Adaptation,0.0,
+THE_SILENT,Meteor Strike,0.0,
+DEFECT,CrushJoints,0.0,0.0
+DEFECT,SandsOfTime,0.0,
+THE_SILENT,Blasphemy,0.0,0.0
+THE_SILENT,Darkness,0.0,
+IRONCLAD,Darkness,0.0,0.0
+THE_SILENT,CrushJoints,0.0,
+WATCHER,Dualcast,0.0,
+THE_SILENT,Dualcast,0.0,
+DEFECT,Establishment,0.0,
+IRONCLAD,Establishment,0.0,
+THE_SILENT,Establishment,0.0,
+IRONCLAD,Sweeping Beam,0.0,0.0
+IRONCLAD,Dualcast,0.0,
+DEFECT,Consecrate,0.0,0.0
+IRONCLAD,Consecrate,0.0,0.0
+THE_SILENT,Defragment,0.0,0.0
+THE_SILENT,Consecrate,0.0,0.0
+IRONCLAD,Defragment,0.0,
+DEFECT,Blasphemy,0.0,
+WATCHER,Sweeping Beam,0.0,0.0
+THE_SILENT,Sweeping Beam,0.0,0.0
+WATCHER,Defragment,0.0,
+WATCHER,Body Slam,0.0,0.0
+DEFECT,Vigilance,0.0,
+WATCHER,Carnage,0.0,
+THE_SILENT,Armaments,0.0,0.0
+DEFECT,Fasting2,0.0,0.0
+DEFECT,Armaments,0.0,0.0
+DEFECT,WaveOfTheHand,0.0,0.0
+DEFECT,Flame Barrier,0.0,
+WATCHER,Double Energy,0.0,
+THE_SILENT,Capacitor,0.0,
+IRONCLAD,WaveOfTheHand,0.0,
+THE_SILENT,Double Energy,0.0,100.0
+IRONCLAD,Capacitor,0.0,
+WATCHER,Zap,0.0,
+THE_SILENT,Flame Barrier,0.0,
+WATCHER,Flame Barrier,0.0,50.0
+DEFECT,Inflame,0.0,
+THE_SILENT,Carnage,0.0,
+THE_SILENT,Omniscience,0.0,0.0
+THE_SILENT,Inflame,0.0,0.0
+THE_SILENT,Zap,0.0,
+DEFECT,Juggernaut,0.0,
+IRONCLAD,Omniscience,0.0,
+DEFECT,Omniscience,0.0,0.0
+DEFECT,Impervious,0.0,
+THE_SILENT,Impervious,0.0,
+IRONCLAD,TalkToTheHand,0.0,
+THE_SILENT,WaveOfTheHand,0.0,
+DEFECT,TalkToTheHand,0.0,
+IRONCLAD,Undo,0.0,0.0
+THE_SILENT,Fasting2,0.0,
+THE_SILENT,Undo,0.0,
+WATCHER,Undo,0.0,
+IRONCLAD,Deadly Poison,0.0,0.0
+DEFECT,Barricade,0.0,0.0
+IRONCLAD,Zap,0.0,
+DEFECT,Twin Strike,0.0,
+IRONCLAD,CarveReality,0.0,0.0
+WATCHER,Tactician,0.0,
+THE_SILENT,CarveReality,0.0,
+DEFECT,Acrobatics,0.0,
+DEFECT,Well Laid Plans,0.0,0.0
+WATCHER,Capacitor,0.0,
+WATCHER,Barricade,0.0,
+DEFECT,Tactician,0.0,
+DEFECT,Terror,0.0,
+DEFECT,CarveReality,0.0,
+DEFECT,Wraith Form v2,0.0,
+WATCHER,Terror,0.0,
+IRONCLAD,Terror,0.0,0.0
+DEFECT,Blood for Blood,0.0,
+IRONCLAD,Wish,0.0,0.0
+THE_SILENT,Blood for Blood,0.0,
+WATCHER,Blood for Blood,0.0,
+WATCHER,Ghostly Armor,0.0,
+DEFECT,Carnage,0.0,0.0
+THE_SILENT,Wish,0.0,0.0
+DEFECT,Body Slam,0.0,0.0
+WATCHER,Deadly Poison,0.0,
+DEFECT,Wish,0.0,
+IRONCLAD,Tactician,0.0,
+DEFECT,Stack,1.0,4.85
+IRONCLAD,Conclude,1.0,50.0
+IRONCLAD,Forethought,1.0,20.0
+DEFECT,Forethought,1.0,22.22
+WATCHER,Doom and Gloom,1.0,100.0
+IRONCLAD,Aggregate,1.0,100.0
+IRONCLAD,Panache,1.0,11.76
+WATCHER,Coolheaded,1.0,100.0
+WATCHER,Panache,1.0,4.35
+IRONCLAD,Storm of Steel,1.0,100.0
+THE_SILENT,Coolheaded,1.0,16.67
+WATCHER,Finesse,1.0,28.57
+IRONCLAD,Swift Strike,1.0,8.33
+WATCHER,Meteor Strike,1.0,100.0
+THE_SILENT,Dramatic Entrance,1.0,10.34
+DEFECT,Dramatic Entrance,1.0,16.67
+WATCHER,Forethought,1.0,16.67
+THE_SILENT,Burning Pact,1.0,100.0
+DEFECT,Demon Form,1.0,100.0
+THE_SILENT,Blind,1.0,7.69
+DEFECT,Metamorphosis,1.0,2.82
+WATCHER,Feel No Pain,1.0,50.0
+IRONCLAD,Metamorphosis,1.0,2.83
+THE_SILENT,Metamorphosis,1.0,1.67
+IRONCLAD,Thinking Ahead,1.0,10.0
+IRONCLAD,Study,1.0,100.0
+THE_SILENT,MasterReality,1.0,100.0
+IRONCLAD,Well Laid Plans,1.0,20.0
+IRONCLAD,Prostrate,1.0,50.0
+WATCHER,The Bomb,1.0,7.69
+WATCHER,Magnetism,1.0,13.33
+THE_SILENT,Magnetism,1.0,5.56
+WATCHER,Violence,1.0,33.33
+IRONCLAD,Violence,1.0,16.67
+WATCHER,Mind Blast,1.0,18.75
+WATCHER,White Noise,1.0,100.0
+IRONCLAD,Mind Blast,1.0,5.41
+WATCHER,Impervious,1.0,100.0
+DEFECT,True Grit,1.0,50.0
+WATCHER,Juggernaut,1.0,100.0
+IRONCLAD,Creative AI,1.0,25.0
+WATCHER,Inflame,1.0,33.33
+THE_SILENT,Hyperbeam,1.0,50.0
+WATCHER,Double Tap,1.0,50.0
+IRONCLAD,Seek,1.0,100.0
+DEFECT,Trip,1.0,3.03
+THE_SILENT,Recycle,1.0,33.33
+IRONCLAD,Skim,1.0,100.0
+THE_SILENT,Skim,1.0,50.0
+IRONCLAD,ConjureBlade,1.0,50.0
+DEFECT,Mind Blast,1.0,5.56
+WATCHER,Transmutation,1.0,16.67
+WATCHER,Twin Strike,1.0,100.0
+THE_SILENT,Wireheading,1.0,50.0
+IRONCLAD,Cloak And Dagger,1.0,33.33
+IRONCLAD,Heatsinks,1.0,100.0
+IRONCLAD,Pray,1.0,50.0
+THE_SILENT,Heatsinks,1.0,100.0
+THE_SILENT,Shockwave,1.0,50.0
+WATCHER,Havoc,1.0,50.0
+WATCHER,Heavy Blade,1.0,50.0
+THE_SILENT,SpiritShield,1.0,100.0
+IRONCLAD,Adrenaline,1.0,25.0
+IRONCLAD,Vault,1.0,16.67
+IRONCLAD,Hologram,1.0,50.0
+THE_SILENT,Barricade,1.0,33.33
+WATCHER,Corruption,1.0,50.0
+WATCHER,Hologram,1.0,33.33
+IRONCLAD,Blasphemy,1.0,25.0
+IRONCLAD,Burst,1.0,100.0
+THE_SILENT,Amplify,1.0,100.0
+IRONCLAD,Venomology,1.0,100.0
+WATCHER,PanicButton,1.0,66.67
+WATCHER,Venomology,1.0,100.0
+THE_SILENT,Body Slam,1.0,22.22
+IRONCLAD,WheelKick,1.0,33.33
+WATCHER,Streamline,1.0,50.0
+WATCHER,Brutality,1.0,100.0
+IRONCLAD,Ragnarok,1.0,25.0
+WATCHER,Flex,1.0,50.0
+THE_SILENT,Streamline,1.0,100.0
+IRONCLAD,Malaise,1.0,33.33
+WATCHER,Sunder,1.0,33.33
+IRONCLAD,Fasting2,1.0,50.0
+WATCHER,Skewer,1.0,50.0
+WATCHER,Chrysalis,1.0,10.0
+WATCHER,Backflip,1.0,50.0
+DEFECT,Bandage Up,1.0,5.26
+THE_SILENT,TalkToTheHand,1.0,33.33
+THE_SILENT,Entrench,2.0,50.0
+THE_SILENT,True Grit,2.0,50.0
+WATCHER,Limit Break,2.0,50.0
+IRONCLAD,Good Instincts,2.0,18.18
+WATCHER,Buffer,2.0,100.0
+DEFECT,PanicButton,2.0,75.0
+WATCHER,True Grit,2.0,50.0
+WATCHER,Well Laid Plans,2.0,100.0
+THE_SILENT,Flash of Steel,2.0,12.9
+WATCHER,Flash of Steel,2.0,9.09
+THE_SILENT,Transmutation,2.0,9.09
+IRONCLAD,Backflip,2.0,66.67
+THE_SILENT,Thinking Ahead,2.0,26.67
+IRONCLAD,Recycle,2.0,100.0
+THE_SILENT,Seek,2.0,66.67
+THE_SILENT,Bite,2.0,11.43
+IRONCLAD,Reckless Charge,2.0,5.04
+IRONCLAD,Wraith Form v2,2.0,100.0
+THE_SILENT,Slice,2.0,4.35
+DEFECT,RitualDagger,2.0,3.12
+THE_SILENT,Finesse,2.0,9.52
+THE_SILENT,PanicButton,2.0,66.67
+DEFECT,Jack Of All Trades,2.0,21.05
+IRONCLAD,Coolheaded,2.0,40.0
+THE_SILENT,Reboot,2.0,66.67
+WATCHER,Impatience,2.0,33.33
+IRONCLAD,Double Energy,2.0,50.0
+THE_SILENT,Mayhem,2.0,3.57
+THE_SILENT,Mind Blast,2.0,17.65
+DEFECT,Mayhem,2.0,6.0
+IRONCLAD,DeusExMachina,2.0,75.0
+DEFECT,Violence,2.0,100.0
+WATCHER,Dark Shackles,2.0,50.0
+IRONCLAD,Bandage Up,2.0,6.9
+THE_SILENT,Turbo,2.0,66.67
+IRONCLAD,Blind,2.0,5.41
+DEFECT,Finesse,2.0,18.75
+THE_SILENT,Forethought,2.0,50.0
+IRONCLAD,Tantrum,2.0,33.33
+THE_SILENT,PathToVictory,2.0,50.0
+THE_SILENT,Dark Shackles,2.0,25.0
+THE_SILENT,Juggernaut,2.0,50.0
+DEFECT,Reprogram,3.0,4.17
+WATCHER,J.A.X.,3.0,20.0
+THE_SILENT,Trip,3.0,5.71
+THE_SILENT,Bandage Up,3.0,11.76
+WATCHER,Thinking Ahead,3.0,25.0
+DEFECT,Chrysalis,3.0,6.0
+IRONCLAD,Turbo,3.0,60.0
+THE_SILENT,RitualDagger,3.0,6.86
+THE_SILENT,J.A.X.,3.0,17.24
+WATCHER,Burning Pact,3.0,100.0
+THE_SILENT,The Bomb,3.0,4.21
+WATCHER,Acrobatics,3.0,75.0
+WATCHER,Offering,3.0,75.0
+IRONCLAD,Clash,3.0,2.08
+DEFECT,Dark Shackles,3.0,35.71
+THE_SILENT,Strike_G,3.0,5.19
+DEFECT,Aggregate,3.0,12.2
+WATCHER,Whirlwind,3.0,100.0
+WATCHER,Demon Form,3.0,100.0
+THE_SILENT,Flying Knee,3.0,1.62
+DEFECT,Panache,3.0,14.71
+WATCHER,Armaments,3.0,37.5
+WATCHER,Mayhem,3.0,15.79
+IRONCLAD,Transmutation,3.0,11.11
+DEFECT,Transmutation,4.0,20.0
+WATCHER,Secret Weapon,4.0,20.0
+DEFECT,Secret Technique,4.0,20.83
+WATCHER,Metamorphosis,4.0,11.11
+WATCHER,Wraith Form v2,4.0,50.0
+WATCHER,Trip,4.0,12.07
+DEFECT,Scrape,4.0,6.17
+IRONCLAD,Jack Of All Trades,4.0,19.05
+IRONCLAD,The Bomb,4.0,7.09
+THE_SILENT,Chrysalis,4.0,10.64
+DEFECT,Melter,4.0,2.6
+DEFECT,Magnetism,4.0,7.27
+THE_SILENT,Distraction,4.0,3.28
+DEFECT,Blind,4.0,10.64
+DEFECT,Steam,4.0,4.72
+THE_SILENT,Unload,5.0,3.48
+IRONCLAD,Secret Technique,5.0,39.13
+DEFECT,Purity,5.0,40.0
+WATCHER,Secret Technique,5.0,35.29
+IRONCLAD,Magnetism,5.0,8.82
+IRONCLAD,Flash of Steel,5.0,14.04
+IRONCLAD,PanicButton,5.0,42.86
+THE_SILENT,Discovery,5.0,6.9
+WATCHER,PathToVictory,5.0,2.88
+DEFECT,Auto Shields,5.0,5.14
+THE_SILENT,Underhanded Strike,5.0,5.63
+DEFECT,Strike_B,5.0,9.86
+THE_SILENT,Sadistic Nature,5.0,9.18
+IRONCLAD,Trip,5.0,5.06
+DEFECT,BootSequence,5.0,12.33
+WATCHER,Enlightenment,6.0,18.75
+DEFECT,Leap,6.0,3.73
+IRONCLAD,Acrobatics,6.0,83.33
+DEFECT,Rebound,6.0,5.03
+WATCHER,JustLucky,6.0,9.09
+THE_SILENT,Secret Technique,6.0,24.24
+DEFECT,The Bomb,6.0,8.05
+IRONCLAD,Bite,6.0,14.29
+THE_SILENT,Heel Hook,6.0,4.88
+WATCHER,Evaluate,7.0,7.65
+DEFECT,Hello World,7.0,6.0
+WATCHER,EmptyBody,7.0,19.0
+WATCHER,Discovery,7.0,16.67
+IRONCLAD,Mayhem,7.0,5.62
+DEFECT,Enlightenment,7.0,12.5
+THE_SILENT,Enlightenment,7.0,20.41
+DEFECT,Deep Breath,7.0,24.14
+IRONCLAD,Finesse,7.0,27.03
+IRONCLAD,Headbutt,8.0,4.99
+IRONCLAD,Impatience,8.0,37.04
+IRONCLAD,Thunderclap,8.0,4.33
+DEFECT,HandOfGreed,8.0,6.33
+IRONCLAD,J.A.X.,9.0,16.41
+IRONCLAD,Dark Shackles,9.0,35.14
+DEFECT,All For One,9.0,9.89
+WATCHER,Panacea,9.0,24.39
+WATCHER,WreathOfFlame,9.0,17.46
+DEFECT,Impatience,10.0,41.38
+DEFECT,Steam Power,10.0,19.32
+WATCHER,Weave,10.0,14.93
+THE_SILENT,Impatience,10.0,38.46
+IRONCLAD,Dropkick,11.0,7.77
+THE_SILENT,Panache,11.0,13.33
+THE_SILENT,Endless Agony,11.0,6.64
+WATCHER,Deep Breath,12.0,48.0
+DEFECT,Rip and Tear,12.0,4.02
+DEFECT,FTL,12.0,5.1
+THE_SILENT,Setup,12.0,12.12
+THE_SILENT,Storm of Steel,12.0,7.41
+WATCHER,Swivel,12.0,21.54
+IRONCLAD,Enlightenment,12.0,12.61
+WATCHER,Nirvana,12.0,18.67
+IRONCLAD,Chrysalis,13.0,25.0
+DEFECT,Compile Driver,13.0,5.96
+DEFECT,Core Surge,13.0,10.22
+IRONCLAD,Purity,13.0,61.54
+DEFECT,Fusion,13.0,3.61
+WATCHER,CarveReality,14.0,11.94
+THE_SILENT,Deep Breath,14.0,33.33
+IRONCLAD,Ghostly Armor,14.0,7.87
+WATCHER,DeceiveReality,15.0,15.54
+DEFECT,Tempest,16.0,4.38
+DEFECT,Gash,16.0,4.52
+DEFECT,Discovery,16.0,11.59
+THE_SILENT,HandOfGreed,16.0,7.58
+THE_SILENT,Backstab,16.0,3.91
+WATCHER,ConjureBlade,17.0,10.54
+IRONCLAD,Strike_R,17.0,7.31
+DEFECT,Madness,17.0,26.92
+THE_SILENT,Dagger Throw,17.0,3.31
+THE_SILENT,Panacea,17.0,27.63
+WATCHER,Vengeance,17.0,21.55
+DEFECT,Master of Strategy,17.0,57.14
+THE_SILENT,Masterful Stab,17.0,5.58
+WATCHER,FlyingSleeves,18.0,7.81
+IRONCLAD,Discovery,18.0,14.0
+WATCHER,Crescendo,18.0,13.1
+IRONCLAD,Master of Strategy,19.0,42.37
+WATCHER,Judgement,19.0,7.05
+IRONCLAD,Panacea,19.0,21.62
+THE_SILENT,Quick Slash,19.0,5.03
+DEFECT,Force Field,19.0,17.24
+THE_SILENT,Master of Strategy,19.0,64.86
+IRONCLAD,Deep Breath,19.0,33.33
+DEFECT,Hyperbeam,19.0,4.41
+DEFECT,Undo,19.0,8.52
+THE_SILENT,Madness,20.0,30.88
+WATCHER,Alpha,20.0,12.28
+THE_SILENT,Sucker Punch,21.0,3.54
+DEFECT,Redo,21.0,4.54
+IRONCLAD,Intimidate,21.0,11.71
+THE_SILENT,Riddle With Holes,21.0,4.58
+WATCHER,Purity,21.0,70.0
+THE_SILENT,Dodge and Roll,22.0,8.68
+WATCHER,Indignation,22.0,24.6
+DEFECT,Machine Learning,22.0,12.08
+THE_SILENT,Finisher,22.0,4.56
+IRONCLAD,Rupture,22.0,5.59
+THE_SILENT,Phantasmal Killer,22.0,10.51
+THE_SILENT,Deflect,22.0,14.65
+IRONCLAD,Infernal Blade,23.0,5.39
+WATCHER,WindmillStrike,23.0,8.08
+WATCHER,Strike_P,23.0,26.96
+WATCHER,RitualDagger,23.0,24.82
+THE_SILENT,Outmaneuver,23.0,19.55
+WATCHER,Perseverance,23.0,11.25
+IRONCLAD,Bloodletting,24.0,14.86
+WATCHER,ReachHeaven,24.0,14.77
+WATCHER,Brilliance,24.0,16.11
+IRONCLAD,RitualDagger,24.0,15.98
+DEFECT,Defend_B,25.0,8.57
+WATCHER,Defend_P,25.0,25.2
+IRONCLAD,Iron Wave,25.0,4.59
+IRONCLAD,HandOfGreed,25.0,7.26
+WATCHER,FollowUp,25.0,11.32
+DEFECT,Conserve Battery,26.0,6.15
+WATCHER,Master of Strategy,26.0,58.7
+IRONCLAD,Sever Soul,26.0,7.78
+THE_SILENT,Die Die Die,27.0,6.99
+WATCHER,Madness,27.0,41.94
+DEFECT,Cold Snap,27.0,5.16
+WATCHER,Establishment,28.0,15.24
+IRONCLAD,Madness,28.0,29.51
+WATCHER,Halt,28.0,15.48
+THE_SILENT,Infinite Blades,28.0,5.13
+WATCHER,ClearTheMind,29.0,16.67
+THE_SILENT,Choke,30.0,6.19
+DEFECT,Multi-Cast,30.0,10.14
+IRONCLAD,Cleave,30.0,3.65
+WATCHER,HandOfGreed,30.0,23.61
+WATCHER,Study,31.0,15.11
+WATCHER,Consecrate,31.0,10.84
+IRONCLAD,Pummel,31.0,10.3
+DEFECT,Thunder Strike,32.0,12.65
+DEFECT,Lockon,32.0,5.53
+IRONCLAD,Reaper,33.0,14.62
+IRONCLAD,Rage,33.0,7.04
+IRONCLAD,Warcry,35.0,18.71
+IRONCLAD,Brutality,36.0,17.08
+DEFECT,Panacea,36.0,24.31
+WATCHER,Collect,36.0,22.22
+WATCHER,Sanctity,36.0,30.6
+THE_SILENT,Bane,37.0,4.19
+DEFECT,Sweeping Beam,37.0,3.67
+DEFECT,Beam Cell,39.0,4.05
+THE_SILENT,Doppelganger,39.0,15.16
+THE_SILENT,Blur,39.0,10.65
+THE_SILENT,All Out Attack,40.0,5.43
+WATCHER,SashWhip,40.0,9.31
+THE_SILENT,Purity,41.0,64.62
+IRONCLAD,Twin Strike,41.0,4.98
+WATCHER,BattleHymn,41.0,8.25
+WATCHER,ThirdEye,42.0,22.62
+WATCHER,Worship,42.0,12.32
+IRONCLAD,Hemokinesis,42.0,5.13
+IRONCLAD,Wild Strike,43.0,5.39
+THE_SILENT,Tools of the Trade,44.0,11.59
+THE_SILENT,PiercingWail,46.0,18.21
+DEFECT,Genetic Algorithm,49.0,6.4
+WATCHER,LessonLearned,49.0,18.21
+WATCHER,MasterReality,51.0,23.4
+IRONCLAD,Anger,51.0,6.1
+DEFECT,Reboot,51.0,20.4
+WATCHER,DevaForm,53.0,21.24
+THE_SILENT,Eviscerate,54.0,13.22
+THE_SILENT,Expertise,54.0,35.71
+THE_SILENT,Escape Plan,54.0,32.0
+THE_SILENT,Defend_G,55.0,23.9
+IRONCLAD,Sentinel,56.0,39.31
+WATCHER,ForeignInfluence,57.0,11.97
+IRONCLAD,Combust,57.0,5.8
+DEFECT,Chill,57.0,13.23
+WATCHER,DeusExMachina,58.0,27.86
+DEFECT,Double Energy,59.0,15.65
+DEFECT,Blizzard,59.0,13.94
+DEFECT,Doom and Gloom,60.0,6.17
+WATCHER,Protect,61.0,19.55
+THE_SILENT,Accuracy,61.0,7.67
+DEFECT,Meteor Strike,61.0,35.2
+THE_SILENT,Glass Knife,62.0,7.04
+THE_SILENT,Blade Dance,62.0,5.18
+WATCHER,Wireheading,63.0,27.06
+DEFECT,Amplify,64.0,27.71
+DEFECT,Storm,64.0,9.53
+DEFECT,Rainbow,65.0,9.39
+THE_SILENT,Bullet Time,65.0,13.84
+DEFECT,Chaos,65.0,5.72
+DEFECT,Barrage,65.0,6.62
+IRONCLAD,Havoc,66.0,14.77
+WATCHER,EmptyFist,66.0,13.85
+WATCHER,LikeWater,67.0,13.19
+THE_SILENT,Caltrops,68.0,5.94
+WATCHER,Pray,69.0,27.88
+THE_SILENT,Envenom,69.0,6.81
+DEFECT,Ball Lightning,69.0,5.85
+WATCHER,WaveOfTheHand,70.0,20.05
+IRONCLAD,Seeing Red,72.0,13.05
+DEFECT,Darkness,72.0,6.34
+THE_SILENT,Venomology,73.0,12.77
+DEFECT,Reinforced Body,74.0,11.51
+DEFECT,Glacier,74.0,12.09
+DEFECT,White Noise,77.0,7.59
+WATCHER,Apotheosis,78.0,22.53
+IRONCLAD,Blood for Blood,78.0,8.35
+WATCHER,Prostrate,80.0,18.59
+THE_SILENT,Flechettes,82.0,12.19
+THE_SILENT,Poisoned Stab,82.0,4.14
+WATCHER,SignatureMove,83.0,16.24
+IRONCLAD,Flex,83.0,6.77
+WATCHER,CutThroughFate,85.0,19.68
+WATCHER,SpiritShield,86.0,25.49
+WATCHER,Devotion,87.0,16.93
+IRONCLAD,Exhume,87.0,26.43
+WATCHER,FlurryOfBlows,88.0,15.98
+WATCHER,SandsOfTime,88.0,17.73
+DEFECT,Self Repair,88.0,8.61
+THE_SILENT,Terror,89.0,8.26
+DEFECT,Streamline,90.0,4.39
+THE_SILENT,Concentrate,90.0,25.4
+DEFECT,Go for the Eyes,90.0,7.88
+DEFECT,Static Discharge,91.0,5.82
+THE_SILENT,Skewer,91.0,7.08
+THE_SILENT,Dash,92.0,7.37
+THE_SILENT,Predator,94.0,6.95
+IRONCLAD,Double Tap,94.0,11.29
+WATCHER,FearNoEvil,96.0,36.24
+IRONCLAD,Perfected Strike,97.0,5.39
+DEFECT,Ghostly,98.0,17.38
+IRONCLAD,Defend_R,98.0,15.11
+DEFECT,Echo Form,100.0,15.33
+THE_SILENT,A Thousand Cuts,103.0,10.12
+IRONCLAD,Rampage,104.0,5.97
+THE_SILENT,Prepared,105.0,15.03
+IRONCLAD,Clothesline,107.0,8.62
+WATCHER,EmptyMind,107.0,38.44
+WATCHER,Ghostly,109.0,28.81
+THE_SILENT,Leg Sweep,109.0,10.99
+DEFECT,Apotheosis,110.0,15.86
+DEFECT,Creative AI,114.0,10.53
+THE_SILENT,Dagger Spray,114.0,4.29
+THE_SILENT,Reflex,116.0,29.08
+DEFECT,Electrodynamics,120.0,13.39
+WATCHER,Conclude,120.0,16.24
+THE_SILENT,Cloak And Dagger,122.0,5.15
+THE_SILENT,Grand Finale,126.0,52.29
+WATCHER,Blasphemy,132.0,21.78
+THE_SILENT,Survivor,132.0,13.2
+WATCHER,CrushJoints,134.0,14.07
+DEFECT,Sunder,138.0,6.76
+IRONCLAD,Berserk,142.0,12.57
+IRONCLAD,Metallicize,150.0,8.95
+THE_SILENT,Night Terror,151.0,23.28
+DEFECT,Recycle,155.0,14.54
+IRONCLAD,Dual Wield,155.0,21.95
+THE_SILENT,After Image,156.0,16.05
+IRONCLAD,Apotheosis,159.0,17.86
+DEFECT,Skim,160.0,35.28
+IRONCLAD,Ghostly,161.0,26.73
+THE_SILENT,Malaise,164.0,15.73
+DEFECT,Heatsinks,164.0,36.17
+DEFECT,Hologram,164.0,9.69
+DEFECT,Consume,166.0,13.54
+THE_SILENT,Apotheosis,168.0,20.94
+IRONCLAD,Sword Boomerang,168.0,11.29
+THE_SILENT,Corpse Explosion,180.0,18.16
+IRONCLAD,Juggernaut,182.0,16.92
+IRONCLAD,Bludgeon,182.0,12.96
+DEFECT,Turbo,184.0,22.33
+IRONCLAD,Searing Blow,184.0,8.31
+WATCHER,Wish,185.0,29.58
+WATCHER,WheelKick,201.0,22.04
+WATCHER,Omniscience,202.0,30.84
+THE_SILENT,Ghostly,204.0,27.08
+IRONCLAD,Heavy Blade,205.0,11.53
+WATCHER,InnerPeace,208.0,58.36
+WATCHER,Meditate,209.0,24.76
+IRONCLAD,Fiend Fire,211.0,15.29
+DEFECT,Buffer,211.0,14.84
+IRONCLAD,Flame Barrier,213.0,10.51
+DEFECT,Fission,215.0,14.44
+THE_SILENT,Backflip,221.0,24.32
+IRONCLAD,Feed,223.0,13.75
+IRONCLAD,Power Through,231.0,24.63
+WATCHER,Vigilance,234.0,16.94
+THE_SILENT,Burst,242.0,20.87
+THE_SILENT,Calculated Gamble,242.0,19.37
+IRONCLAD,Spot Weakness,245.0,10.87
+THE_SILENT,Adrenaline,246.0,19.81
+IRONCLAD,Fire Breathing,247.0,10.33
+IRONCLAD,Shrug It Off,248.0,13.85
+WATCHER,BowlingBash,251.0,23.41
+DEFECT,Seek,257.0,22.01
+IRONCLAD,Carnage,260.0,9.47
+IRONCLAD,Entrench,261.0,19.82
+WATCHER,Ragnarok,265.0,28.11
+THE_SILENT,Deadly Poison,266.0,7.14
+IRONCLAD,Impervious,273.0,36.8
+DEFECT,Loop,275.0,9.65
+DEFECT,Capacitor,290.0,13.71
+IRONCLAD,Immolate,293.0,12.24
+IRONCLAD,Second Wind,306.0,32.23
+DEFECT,Dualcast,307.0,5.8
+THE_SILENT,Crippling Poison,307.0,10.67
+THE_SILENT,Tactician,317.0,29.27
+THE_SILENT,Bouncing Flask,320.0,9.43
+IRONCLAD,Corruption,333.0,29.09
+DEFECT,Zap,334.0,3.96
+IRONCLAD,Pommel Strike,341.0,14.02
+WATCHER,Vault,341.0,30.65
+IRONCLAD,Battle Trance,342.0,21.96
+IRONCLAD,Uppercut,343.0,10.15
+WATCHER,Wallop,344.0,25.02
+WATCHER,MentalFortress,354.0,31.97
+IRONCLAD,Whirlwind,358.0,10.42
+WATCHER,Scrawl,373.0,40.6
+WATCHER,Fasting2,376.0,39.39
+DEFECT,Biased Cognition,393.0,21.87
+IRONCLAD,Burning Pact,396.0,37.67
+IRONCLAD,Disarm,404.0,15.04
+IRONCLAD,Limit Break,409.0,18.41
+WATCHER,Tantrum,434.0,31.67
+IRONCLAD,Inflame,440.0,10.12
+IRONCLAD,Evolve,443.0,22.44
+IRONCLAD,Demon Form,455.0,16.65
+WATCHER,Adaptation,488.0,33.38
+IRONCLAD,True Grit,490.0,11.78
+THE_SILENT,Wraith Form v2,512.0,27.03
+IRONCLAD,Barricade,521.0,25.43
+IRONCLAD,Dark Embrace,523.0,28.93
+IRONCLAD,Shockwave,544.0,17.65
+THE_SILENT,Well Laid Plans,545.0,25.65
+IRONCLAD,Body Slam,546.0,14.76
+THE_SILENT,Acrobatics,564.0,30.57
+IRONCLAD,Offering,568.0,29.91
+DEFECT,Coolheaded,578.0,14.74
+THE_SILENT,Noxious Fumes,582.0,8.97
+IRONCLAD,Searing Blow+X,627.0,12.78
+IRONCLAD,Bash,634.0,6.13
+THE_SILENT,Catalyst,641.0,16.05
+WATCHER,TalkToTheHand,656.0,25.73
+THE_SILENT,Footwork,670.0,12.29
+THE_SILENT,Neutralize,698.0,6.86
+IRONCLAD,Armaments,722.0,10.11
+DEFECT,Defragment,917.0,10.58
+WATCHER,Eruption,985.0,12.83
+IRONCLAD,Feel No Pain,1009.0,33.65
